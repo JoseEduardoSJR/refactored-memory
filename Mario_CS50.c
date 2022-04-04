@@ -24,7 +24,7 @@ void draw(int n)
     // If nothing to draw
     if (n <= 0)
     {
-        return;
+        return 0;
     }
 
     // Draw pyramid of height n - 1
