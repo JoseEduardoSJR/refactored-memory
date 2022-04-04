@@ -1,3 +1,7 @@
 # Refactored-memory
-##Without fancy words, this is my learning repository.
-Here is the place where I share the things that I learn, so feel free to improve what is here. 
+*Repository of the course CS50*
+Here you will find:
+1. Mario Pyramid's in C
+2. Ceaser Cipher in C
+
+And More!
